@@ -1,0 +1,71 @@
+C:/intelFPGA/20.1/Exercise1/X_One_FSM_JK_TB.v {1 {vlog -work work -stats=none {C:\intelFPGA\20.1\Exercise1\X_One_FSM_JK_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module X_One_FSM_JK_TB
+
+Top level modules:
+	X_One_FSM_JK_TB
+
+} {} {}} C:/intelFPGA/20.1/Exercise1/D_FF_TB.v {1 {vlog -work work -stats=none {C:\intelFPGA\20.1\Exercise1\D_FF_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_DFF
+
+Top level modules:
+	tb_DFF
+
+} {} {}} C:/intelFPGA/20.1/Exercise1/Testbench.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/Exercise1/Testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module JK_TestBench
+
+Top level modules:
+	JK_TestBench
+
+} {} {}} C:/intelFPGA/20.1/Exercise1/JK_FF.v {1 {vlog -work work -stats=none {C:\intelFPGA\20.1\Exercise1\JK_FF.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module JK_FF
+
+Top level modules:
+	JK_FF
+
+} {} {}} C:/intelFPGA/20.1/Exercise1/X_One_FSM_Vector_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/Exercise1/X_One_FSM_Vector_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module X_One_FSM_Vector_TB
+
+Top level modules:
+	X_One_FSM_Vector_TB
+
+} {} {}} C:/intelFPGA/20.1/Exercise1/X_One_FSM_D.v {1 {vlog -work work -stats=none {C:\intelFPGA\20.1\Exercise1\X_One_FSM_D.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module X_One_FSM_D
+
+Top level modules:
+	X_One_FSM_D
+
+} {} {}} C:/intelFPGA/20.1/Exercise1/D_Flip_Flop.v {1 {vlog -work work -stats=none {C:\intelFPGA\20.1\Exercise1\D_Flip_Flop.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module D_Flip_Flop
+
+Top level modules:
+	D_Flip_Flop
+
+} {} {}} C:/intelFPGA/20.1/Exercise1/X_One_FSM.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/Exercise1/X_One_FSM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module X_One_FSM
+
+Top level modules:
+	X_One_FSM
+
+} {} {}} C:/intelFPGA/20.1/Exercise1/X_One_FSM_D_TB.v {1 {vlog -work work -stats=none {C:\intelFPGA\20.1\Exercise1\X_One_FSM_D_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module X_One_FSM_D_TB
+
+Top level modules:
+	X_One_FSM_D_TB
+
+} {} {}} C:/intelFPGA/20.1/Exercise1/X_One_FSM_JK.v {1 {vlog -work work -stats=none {C:\intelFPGA\20.1\Exercise1\X_One_FSM_JK.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module X_One_FSM_JK
+
+Top level modules:
+	X_One_FSM_JK
+
+} {} {}}

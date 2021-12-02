@@ -1,0 +1,43 @@
+C:/intelFPGA/20.1/Exercise2/LED_Decoder.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/Exercise2/LED_Decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LED_Decoder
+
+Top level modules:
+	LED_Decoder
+
+} {} {}} C:/intelFPGA/20.1/Exercise2/T_FF_Testbench.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/Exercise2/T_FF_Testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module T_FF_TestBench
+
+Top level modules:
+	T_FF_TestBench
+
+} {} {}} C:/intelFPGA/20.1/Exercise2/T_FF_Behavioral.v {1 {vlog -work work -stats=none {C:\intelFPGA\20.1\Exercise2\T_FF_Behavioral.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module T_FF_Behavioral
+
+Top level modules:
+	T_FF_Behavioral
+
+} {} {}} C:/intelFPGA/20.1/Exercise2/BCD_Counter_Testbench.v {1 {vlog -work work -stats=none {C:\intelFPGA\20.1\Exercise2\BCD_Counter_Testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BCD_Counter_Testbench
+
+Top level modules:
+	BCD_Counter_Testbench
+
+} {} {}} C:/intelFPGA/20.1/Exercise2/BCD_Counter.v {1 {vlog -work work -stats=none {C:\intelFPGA\20.1\Exercise2\BCD_Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BCD_Counter
+
+Top level modules:
+	BCD_Counter
+
+} {} {}} C:/intelFPGA/20.1/Exercise2/Testbench.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/Exercise2/Testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module JK_TestBench
+
+Top level modules:
+	JK_TestBench
+
+} {} {}}

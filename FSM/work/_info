@@ -1,0 +1,349 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+XD_FF_TB_v_unit
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z0 !s110 1621370020
+VnAcn>B<j^Nha@fdRnHEIY2
+r1
+!s85 0
+!i10b 1
+!s100 De_33C5:^j;VeP8kbB>Xk3
+InAcn>B<j^Nha@fdRnHEIY2
+!i103 1
+S1
+Z1 dC:/intelFPGA/20.1/Exercise1
+w1619346161
+8C:/intelFPGA/20.1/Exercise1/D_FF_TB.v
+FC:/intelFPGA/20.1/Exercise1/D_FF_TB.v
+!i122 327
+L0 1 0
+Z2 OV;L;2020.1;71
+31
+Z3 !s108 1621370020.000000
+!s107 C:/intelFPGA/20.1/Exercise1/D_FF_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/20.1/Exercise1/D_FF_TB.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@d_@f@f_@t@b_v_unit
+vD_Flip_Flop
+R0
+!i10b 1
+!s100 FGDCM>A`d?f6k4:D^Xo@T0
+Z6 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IkLihHa5QhGAAMXM@60=<l1
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+R1
+w1621367230
+8C:\intelFPGA\20.1\Exercise1\D_Flip_Flop.v
+FC:\intelFPGA\20.1\Exercise1\D_Flip_Flop.v
+!i122 328
+L0 1 34
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:\intelFPGA\20.1\Exercise1\D_Flip_Flop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise1\D_Flip_Flop.v|
+!i113 1
+R4
+R5
+n@d_@flip_@flop
+vD_Flip_Flop_3
+!s110 1619345519
+!i10b 1
+!s100 OTmni]gnfeEEGS0mE8YEC3
+R6
+ImXiQ<gmg_WNfON<_b4XHD0
+R7
+R1
+w1619174109
+Z8 8C:/intelFPGA/20.1/Exercise1/Register_D_Flip_Flop_3_Bit.v
+Z9 FC:/intelFPGA/20.1/Exercise1/Register_D_Flip_Flop_3_Bit.v
+!i122 24
+L0 1 32
+R2
+r1
+!s85 0
+31
+!s108 1619345519.000000
+Z10 !s107 C:/intelFPGA/20.1/Exercise1/Register_D_Flip_Flop_3_Bit.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/20.1/Exercise1/Register_D_Flip_Flop_3_Bit.v|
+!i113 1
+R4
+R5
+n@d_@flip_@flop_3
+vJK_FF
+R0
+!i10b 1
+!s100 PHXaBd48OD_bgec0ialG83
+R6
+IdL[H]N^lZ4iGVOSE@F?1U0
+R7
+R1
+w1621369717
+8C:\intelFPGA\20.1\Exercise1\JK_FF.v
+FC:\intelFPGA\20.1\Exercise1\JK_FF.v
+!i122 329
+L0 3 46
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:\intelFPGA\20.1\Exercise1\JK_FF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise1\JK_FF.v|
+!i113 1
+R4
+R5
+n@j@k_@f@f
+vJK_TestBench
+Z12 !s110 1621370021
+!i10b 1
+!s100 `hmT9UoWP<87XS@RXG3kX1
+R6
+I>o2BJ0LXfaPFBfB;zYX4c1
+R7
+R1
+w1619858266
+8C:/intelFPGA/20.1/Exercise1/Testbench.v
+FC:/intelFPGA/20.1/Exercise1/Testbench.v
+!i122 332
+L0 2 40
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/intelFPGA/20.1/Exercise1/Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/20.1/Exercise1/Testbench.v|
+!i113 1
+R4
+R5
+n@j@k_@test@bench
+vRegister_D_Flip_Flop_3_Bit
+R0
+!i10b 1
+!s100 M:NRd8m6=e=AbCnRTBQn[0
+R6
+I53W`f<?[PfmXU;P3W[AN91
+R7
+R1
+w1619859409
+R8
+R9
+!i122 330
+L0 1 31
+R2
+r1
+!s85 0
+31
+R3
+R10
+R11
+!i113 1
+R4
+R5
+n@register_@d_@flip_@flop_3_@bit
+vRegister_JK_3
+R0
+!i10b 1
+!s100 FTZg3fba]JRRkk9AZB9m^0
+R6
+I1cAMcYe7fbMV_>Q=iEX9P1
+R7
+R1
+w1619860670
+8C:/intelFPGA/20.1/Exercise1/Register_JK_3.v
+FC:/intelFPGA/20.1/Exercise1/Register_JK_3.v
+!i122 331
+L0 2 34
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/intelFPGA/20.1/Exercise1/Register_JK_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/20.1/Exercise1/Register_JK_3.v|
+!i113 1
+R4
+R5
+n@register_@j@k_3
+vtb_DFF
+!s110 1622975528
+!i10b 1
+!s100 L;JRmcW8<RP;:^AL=;EOk2
+R6
+IPVnDPJ6:CnLWF4KjFQ1=R0
+R7
+R1
+w1622975523
+8C:\intelFPGA\20.1\Exercise1\D_FF_TB.v
+FC:\intelFPGA\20.1\Exercise1\D_FF_TB.v
+!i122 341
+L0 6 26
+R2
+r1
+!s85 0
+31
+!s108 1622975528.000000
+!s107 C:\intelFPGA\20.1\Exercise1\D_FF_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise1\D_FF_TB.v|
+!i113 1
+R4
+R5
+ntb_@d@f@f
+vX_One_FSM
+R12
+!i10b 1
+!s100 _CjVQPnl`VUbV[fXUYehk3
+R6
+I?54AM<@_C5KLA@hnif9jc0
+R7
+R1
+w1621176914
+8C:/intelFPGA/20.1/Exercise1/X_One_FSM.v
+FC:/intelFPGA/20.1/Exercise1/X_One_FSM.v
+!i122 333
+L0 1 74
+R2
+r1
+!s85 0
+31
+Z13 !s108 1621370021.000000
+!s107 C:/intelFPGA/20.1/Exercise1/X_One_FSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/20.1/Exercise1/X_One_FSM.v|
+!i113 1
+R4
+R5
+n@x_@one_@f@s@m
+vX_One_FSM_D
+R12
+!i10b 1
+!s100 =CzMlD1TiXHFKcM`NoiSg0
+R6
+ITJM;A`QV]RIDgM>g][zcV3
+R7
+R1
+w1621369795
+8C:\intelFPGA\20.1\Exercise1\X_One_FSM_D.v
+FC:\intelFPGA\20.1\Exercise1\X_One_FSM_D.v
+!i122 337
+L0 1 47
+R2
+r1
+!s85 0
+31
+R13
+!s107 C:\intelFPGA\20.1\Exercise1\X_One_FSM_D.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise1\X_One_FSM_D.v|
+!i113 1
+R4
+R5
+n@x_@one_@f@s@m_@d
+vX_One_FSM_D_TB
+R12
+!i10b 1
+!s100 Zha6XgbI@`X<9NNW4^Q=B0
+R6
+IGHFKB9SIoOBMAUf=BMIDn2
+R7
+R1
+w1621365382
+8C:\intelFPGA\20.1\Exercise1\X_One_FSM_D_TB.v
+FC:\intelFPGA\20.1\Exercise1\X_One_FSM_D_TB.v
+!i122 338
+Z14 L0 2 44
+R2
+r1
+!s85 0
+31
+R13
+!s107 C:\intelFPGA\20.1\Exercise1\X_One_FSM_D_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise1\X_One_FSM_D_TB.v|
+!i113 1
+R4
+R5
+n@x_@one_@f@s@m_@d_@t@b
+vX_One_FSM_JK
+!s110 1621370100
+!i10b 1
+!s100 Sj>aGJfQ2_6HilnW97XQG2
+R6
+Ic^I:iNZU`mRR3Yfn0c7ce2
+R7
+R1
+w1621370092
+8C:\intelFPGA\20.1\Exercise1\X_One_FSM_JK.v
+FC:\intelFPGA\20.1\Exercise1\X_One_FSM_JK.v
+!i122 340
+L0 2 33
+R2
+r1
+!s85 0
+31
+!s108 1621370100.000000
+!s107 C:\intelFPGA\20.1\Exercise1\X_One_FSM_JK.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise1\X_One_FSM_JK.v|
+!i113 1
+R4
+R5
+n@x_@one_@f@s@m_@j@k
+vX_One_FSM_JK_TB
+R12
+!i10b 1
+!s100 Sz1H^A=4mlg^TQ^<AIR8U1
+R6
+I1MB7;23oed:zSF^Gl0hI40
+R7
+R1
+w1619859708
+8C:\intelFPGA\20.1\Exercise1\X_One_FSM_JK_TB.v
+FC:\intelFPGA\20.1\Exercise1\X_One_FSM_JK_TB.v
+!i122 335
+L0 3 44
+R2
+r1
+!s85 0
+31
+R13
+!s107 C:\intelFPGA\20.1\Exercise1\X_One_FSM_JK_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise1\X_One_FSM_JK_TB.v|
+!i113 1
+R4
+R5
+n@x_@one_@f@s@m_@j@k_@t@b
+vX_One_FSM_Vector_TB
+R12
+!i10b 1
+!s100 24n0QC?l34Vaz[[dcHR];0
+R6
+IAOYa=:5FSbbhSc9AQBGH:2
+R7
+R1
+w1621181987
+8C:/intelFPGA/20.1/Exercise1/X_One_FSM_Vector_TB.v
+FC:/intelFPGA/20.1/Exercise1/X_One_FSM_Vector_TB.v
+!i122 336
+R14
+R2
+r1
+!s85 0
+31
+R13
+!s107 C:/intelFPGA/20.1/Exercise1/X_One_FSM_Vector_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/20.1/Exercise1/X_One_FSM_Vector_TB.v|
+!i113 1
+R4
+R5
+n@x_@one_@f@s@m_@vector_@t@b

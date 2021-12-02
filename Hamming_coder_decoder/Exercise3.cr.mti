@@ -1,0 +1,29 @@
+C:/intelFPGA/20.1/Exercise3/Hamming_Encoder_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/Exercise3/Hamming_Encoder_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Hamming_Encoder_TB
+
+Top level modules:
+	Hamming_Encoder_TB
+
+} {} {}} C:/intelFPGA/20.1/Exercise3/Hamming_Decoder.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/Exercise3/Hamming_Decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Hamming_Decoder
+
+Top level modules:
+	Hamming_Decoder
+
+} {} {}} C:/intelFPGA/20.1/Exercise3/Noisy_Channel.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/Exercise3/Noisy_Channel.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Noisy_Channel
+
+Top level modules:
+	Noisy_Channel
+
+} {} {}} C:/intelFPGA/20.1/Exercise3/Hamming_Encoder.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/Exercise3/Hamming_Encoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Hamming_Encoder
+
+Top level modules:
+	Hamming_Encoder
+
+} {} {}}

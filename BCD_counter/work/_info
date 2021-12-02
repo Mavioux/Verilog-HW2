@@ -1,0 +1,275 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1/Exercise1
+vBCD_Counter
+Z0 !s110 1621004110
+!i10b 1
+!s100 TRI1FfF9eY<_WlLOTPFC<3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQ1mXIS4g=n2<z936aTdgi3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/intelFPGA/20.1/Exercise2
+w1621002710
+8C:\intelFPGA\20.1\Exercise2\BCD_Counter.v
+FC:\intelFPGA\20.1\Exercise2\BCD_Counter.v
+!i122 105
+L0 2 26
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1621004109.000000
+!s107 C:\intelFPGA\20.1\Exercise2\BCD_Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise2\BCD_Counter.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@b@c@d_@counter
+vBCD_Counter_Four_Digits
+Z8 !s110 1621004109
+!i10b 1
+!s100 P^BP@HzNX^S0lUMH[6;?h2
+R1
+I7m<3KzLWDLLmO=VMX=;b[0
+R2
+R3
+w1621004103
+8C:\intelFPGA\20.1\Exercise2\4D_BCD_Counter.v
+FC:\intelFPGA\20.1\Exercise2\4D_BCD_Counter.v
+!i122 103
+L0 1 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\intelFPGA\20.1\Exercise2\4D_BCD_Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise2\4D_BCD_Counter.v|
+!i113 1
+R6
+R7
+n@b@c@d_@counter_@four_@digits
+vBCD_Counter_Four_Digits_Testbench
+R8
+!i10b 1
+!s100 i9m6z<X?GkJNFdV?fRC4U1
+R1
+If?bLJW7bZ53>lAbj7=BjP1
+R2
+R3
+w1621001083
+8C:\intelFPGA\20.1\Exercise2\4D_BCD_Testbench.v
+FC:\intelFPGA\20.1\Exercise2\4D_BCD_Testbench.v
+!i122 104
+L0 2 27
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\intelFPGA\20.1\Exercise2\4D_BCD_Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise2\4D_BCD_Testbench.v|
+!i113 1
+R6
+R7
+n@b@c@d_@counter_@four_@digits_@testbench
+vBCD_Counter_Testbench
+R0
+!i10b 1
+!s100 _ELX=VSA`^zlF7nDA^k3:1
+R1
+Id9?3OH2iEkez=4QcZo_IS0
+R2
+R3
+w1620999886
+8C:\intelFPGA\20.1\Exercise2\BCD_Counter_Testbench.v
+FC:\intelFPGA\20.1\Exercise2\BCD_Counter_Testbench.v
+!i122 106
+L0 2 18
+R4
+r1
+!s85 0
+31
+Z9 !s108 1621004110.000000
+!s107 C:\intelFPGA\20.1\Exercise2\BCD_Counter_Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise2\BCD_Counter_Testbench.v|
+!i113 1
+R6
+R7
+n@b@c@d_@counter_@testbench
+vJK_FF
+R0
+!i10b 1
+!s100 HhMjBf]j1I5>Him90mQ@D0
+R1
+IafD<h4K@;I0T6UEjIeGD]0
+R2
+R3
+w1619861254
+8C:/intelFPGA/20.1/Exercise2/JK_FF.v
+FC:/intelFPGA/20.1/Exercise2/JK_FF.v
+!i122 107
+L0 3 41
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA/20.1/Exercise2/JK_FF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/20.1/Exercise2/JK_FF.v|
+!i113 1
+R6
+R7
+n@j@k_@f@f
+vJK_TestBench
+R0
+!i10b 1
+!s100 `hmT9UoWP<87XS@RXG3kX1
+R1
+IeOFJ85ZP2OHc5<JhAWbA=1
+R2
+R3
+w1619858266
+8C:/intelFPGA/20.1/Exercise2/Testbench.v
+FC:/intelFPGA/20.1/Exercise2/Testbench.v
+!i122 112
+L0 2 40
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA/20.1/Exercise2/Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/20.1/Exercise2/Testbench.v|
+!i113 1
+R6
+R7
+n@j@k_@test@bench
+vLED_Decoder
+R0
+!i10b 1
+!s100 270m?fDZo;K<`:2JElN6N3
+R1
+IT7lU?]YG`_oKQn^:RChmG1
+R2
+R3
+w1619817964
+8C:/intelFPGA/20.1/Exercise2/LED_Decoder.v
+FC:/intelFPGA/20.1/Exercise2/LED_Decoder.v
+!i122 108
+L0 1 62
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA/20.1/Exercise2/LED_Decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/20.1/Exercise2/LED_Decoder.v|
+!i113 1
+R6
+R7
+n@l@e@d_@decoder
+vT_FF
+R0
+!i10b 1
+!s100 EzE1cWmRDz5Y42cSX]2T23
+R1
+I4AXK4HjfAT?lfS?`zio<Y2
+R2
+R3
+w1619480608
+8C:\intelFPGA\20.1\Exercise2\T_FF.v
+FC:\intelFPGA\20.1\Exercise2\T_FF.v
+!i122 109
+L0 1 15
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:\intelFPGA\20.1\Exercise2\T_FF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise2\T_FF.v|
+!i113 1
+R6
+R7
+n@t_@f@f
+vT_FF_Behavioral
+R0
+!i10b 1
+!s100 `0fH=UgZe@LgRRf7f0@623
+R1
+Iko2Mmj?zVJ6g3DXd[3Y6M2
+R2
+R3
+w1621001122
+8C:\intelFPGA\20.1\Exercise2\T_FF_Behavioral.v
+FC:\intelFPGA\20.1\Exercise2\T_FF_Behavioral.v
+!i122 110
+L0 1 32
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:\intelFPGA\20.1\Exercise2\T_FF_Behavioral.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise2\T_FF_Behavioral.v|
+!i113 1
+R6
+R7
+n@t_@f@f_@behavioral
+vT_FF_TestBench
+R0
+!i10b 1
+!s100 F;f6ES5^dZa]2XUb:YhjD1
+R1
+IfG`VR10j0YeSeggMC6j?e1
+R2
+R3
+w1619618251
+8C:/intelFPGA/20.1/Exercise2/T_FF_Testbench.v
+FC:/intelFPGA/20.1/Exercise2/T_FF_Testbench.v
+!i122 111
+L0 3 43
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA/20.1/Exercise2/T_FF_Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/20.1/Exercise2/T_FF_Testbench.v|
+!i113 1
+R6
+R7
+n@t_@f@f_@test@bench
+vTestBench
+!s110 1619375523
+!i10b 1
+!s100 3JED=koB8fHbD8Iz4eN0T2
+R1
+Ih1^O3>D1f4TG@dWOda?O53
+R2
+R3
+w1619375316
+8C:\intelFPGA\20.1\Exercise2\TestBench.v
+FC:\intelFPGA\20.1\Exercise2\TestBench.v
+!i122 40
+L0 2 39
+R4
+r1
+!s85 0
+31
+!s108 1619375523.000000
+!s107 C:\intelFPGA\20.1\Exercise2\TestBench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\20.1\Exercise2\TestBench.v|
+!i113 1
+R6
+R7
+n@test@bench
